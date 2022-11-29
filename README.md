@@ -1,1 +1,1 @@
-My second commit
+git commit -m “Starting to code today, so cool”
